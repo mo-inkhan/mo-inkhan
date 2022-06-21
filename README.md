@@ -17,7 +17,7 @@ GitHub Stats
 [![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-inkhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://moinkhan.dev)
 
 [![Moin's Top Languages](https://moinkhan.dev/assets/languages-used)](https://moinkhan.dev)
-[![Moin's Top Languages](https://moinkhan.dev/assets/languages-used.html)](https://moinkhan.dev)
+[![Moin's Top Languages](https://moinkhan.dev/assets/languages-used.svg)](https://moinkhan.dev)
 
 Tech Stack
 ----------
