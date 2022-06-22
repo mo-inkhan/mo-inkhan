@@ -41,9 +41,10 @@ Tech Stack
     <img src="https://icongr.am/devicon/android-original.svg?size=96&color=currentColor" alt="Android" title="Android" width="51px" style="margin: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" title="Jupyter" width="51px" style="margin: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" title="TensorFlow" width="51px" style="margin: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="ScikitLearn" title="ScikitLearn" width="51px" style="margin: 20px;">
-    <img src="https://matplotlib.org/3.1.0/_static/logo2.png" alt="MaltplotLib" title="MaltplotLib" width="51px" style="margin: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="Numpy" title="Numpy" width="51px" style="margin: 20px;">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="ScikitLearn" title="ScikitLearn" width="51px" style="margin: 20px;">
+    <img src="https://numpy.org/images/logo.svg" alt="Numpy" title="Numpy" width="51px" style="margin: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="MaltplotLib" title="MaltplotLib" width="51px" style="margin: 20px;">
+    <img src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" alt="Anaconda" title="Anaconda" width="51px" style="margin: 20px;">
     <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" title="Pandas" width="51px" style="margin: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" title="OpenCV" width="51px" style="margin: 20px;">
     <img src="https://icongr.am/devicon/docker-original.svg?size=96&color=currentColor" alt="Docker" title="Docker" width="51px" style="margin: 20px;">
