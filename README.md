@@ -44,7 +44,7 @@ Tech Stack
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="ScikitLearn" title="ScikitLearn" width="51px" style="margin: 20px;">
     <img src="https://numpy.org/images/logo.svg" alt="Numpy" title="Numpy" width="51px" style="margin: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="MaltplotLib" title="MaltplotLib" width="51px" style="margin: 20px;">
-    <img src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" alt="Anaconda" title="Anaconda" width="51px" style="margin: 20px;">
+    <img src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png" alt="Anaconda" title="Anaconda" width="51px" style="margin: 20px;">
     <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" title="Pandas" width="51px" style="margin: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" title="OpenCV" width="51px" style="margin: 20px;">
     <img src="https://icongr.am/devicon/docker-original.svg?size=96&color=currentColor" alt="Docker" title="Docker" width="51px" style="margin: 20px;">
