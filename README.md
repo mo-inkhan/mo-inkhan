@@ -39,6 +39,7 @@ Tech Stack
     <img src="https://icongr.am/devicon/windows8-original.svg?size=96&color=currentColor" alt="Windows8" title="Windows8" width="51px" style="margin: 20px;">
     <img src="https://icongr.am/devicon/apple-original.svg?size=96&color=currentColor" alt="Apple" title="Apple" width="51px" style="margin: 20px;">
     <img src="https://icongr.am/devicon/android-original.svg?size=96&color=currentColor" alt="Android" title="Android" width="51px" style="margin: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" title="TensorFlow" width="51px" style="margin: 20px;">
     <img src="https://icongr.am/devicon/docker-original.svg?size=96&color=currentColor" alt="Docker" title="Docker" width="51px" style="margin: 20px;">
     <img src="https://afaan.dev/assets/traefik-icon.svg" alt="Traefik" title="Traefik" width="51px" style="margin: 20px;">
     <img src="https://afaan.dev/assets/cloudflare.svg" alt="Cloudflare" title="Cloudflare" width="51px" style="margin: 20px;">
