@@ -18,6 +18,8 @@ GitHub Stats
 
 [![Moin's Top Languages](https://moinkhan.dev/assets/languages-used.svg)](https://moinkhan.dev)
 
+[![Moin's Activity]([https://moinkhan.dev/assets/languages-used.svg](https://github-readme-activity-graph.vercel.app/graph?username=mo-inkhan&theme=github&custom_title=Moin%27s%20Contributions&radius=10&area=true))](https://moinkhan.dev)
+
 Tech Stack
 ----------
 <p style="width: 100%; margin: 0 -20px">
